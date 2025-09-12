@@ -1,4 +1,4 @@
-# BDEO Exercise 2: Multispectral Satellite Time Series Classification
+# Multispectral Satellite Time Series Classification
 
 A machine learning project for classifying multispectral satellite time series data using PyTorch.
 
